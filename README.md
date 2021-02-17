@@ -8,3 +8,5 @@ Learned how to add html/css files
   -edit uploaded files
   
 Began JavaScript 30 on Feb 11 ~ add projects to CodePen
+     
+     Completed 2/30
