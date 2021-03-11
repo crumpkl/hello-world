@@ -9,7 +9,7 @@ Learned how to add html/css files
   
 Began JavaScript 30 on Feb 11 ~ add projects to CodePen and GitHub for Portfolio
      
-     Completed 3/30
+     Completed 4/30
 
 SC Codes JavaScript concepts
      
