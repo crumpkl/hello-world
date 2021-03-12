@@ -13,6 +13,6 @@ Began JavaScript 30 on Feb 11 ~ add projects to CodePen and GitHub for Portfolio
 
 Transfer JavaScript 30 projects to Codepen/Github for Portfolio
   
-    Copdepen
+    Codepen
     
     Github
