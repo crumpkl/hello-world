@@ -9,8 +9,5 @@ Learned how to add html/css files
   
 Began JavaScript 30 on Feb 11 ~ add projects to CodePen and GitHub for Portfolio
      
-     Completed 4/30
+     Completed 5/30
 
-SC Codes JavaScript concepts
-     
-     Complete by 3/19 - Free Tshirt!
