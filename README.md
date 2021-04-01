@@ -16,3 +16,7 @@ Transfer JavaScript 30 projects to Codepen/Github for Portfolio
     Codepen
     
     Github
+    
+Create portfolio in WordPress
+
+    Looked at free themes 4/1
