@@ -15,7 +15,7 @@ Transfer JavaScript 30 projects to Codepen/Github for Portfolio
   
     Codepen
       
-      Drum Kit - needs edits (https://codepen.io/crumpkl/pen/vYgjedg)
+      Drum Kit - needs edits [https://codepen.io/crumpkl/pen/vYgjedg]
     
     Github
     
