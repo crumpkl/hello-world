@@ -19,6 +19,7 @@ Transfer JavaScript 30 projects to Codepen/Github for Portfolio
       JS + CSS Clock - needs edits (fix JavaScript/change CSS) https://codepen.io/crumpkl/pen/WNRJdrw
       CSS Variables - needs edits (fix JavaScript/change CSS)  https://codepen.io/crumpkl/pen/OJWZzRP
       Flex Panel Gallery - needs edits (fix JavaScript/change CSS) https://codepen.io/crumpkl/pen/ExZLoZL
+      Ajax Type Ahead - needs edits (fix JavaScript/change CSS)   https://codepen.io/crumpkl/pen/QWdraOd
     
     Github
     
