@@ -15,10 +15,10 @@ Transfer JavaScript 30 projects to Codepen/Github for Portfolio
   
     Codepen
       
-      Drum Kit - needs edits (fix JavaScript/change CSS)  <https://codepen.io/crumpkl/pen/vYgjedg>
-      JS + CSS Clock - needs edits (fix JavaScript/change CSS) <https://codepen.io/crumpkl/pen/WNRJdrw>
-      CSS Variables - needs edits (fix JavaScript/change CSS)  <https://codepen.io/crumpkl/pen/OJWZzRP>
-      Flex Panel Gallery - needs edits (fix JavaScript/change CSS) <https://codepen.io/crumpkl/pen/ExZLoZL>
+      Drum Kit - needs edits (fix JavaScript/change CSS)  https://codepen.io/crumpkl/pen/vYgjedg
+      JS + CSS Clock - needs edits (fix JavaScript/change CSS) https://codepen.io/crumpkl/pen/WNRJdrw
+      CSS Variables - needs edits (fix JavaScript/change CSS)  https://codepen.io/crumpkl/pen/OJWZzRP
+      Flex Panel Gallery - needs edits (fix JavaScript/change CSS) https://codepen.io/crumpkl/pen/ExZLoZL
     
     Github
     
