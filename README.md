@@ -26,8 +26,11 @@ Transfer JavaScript 30 projects to Codepen/Github for Portfolio
 Create portfolio in WordPress (https://kelseylcrump.com/)
 
     Looked at free themes 4/1
+    
     Themes to consider: 
       Argent Theme (currently using) - portfolio option
       Blank Canvas - totally customizable
       Dalston - portfolio option
       Twenty Twenty-One
+      
+    Began working on portfolio (playing around, figuring out the cms) - 4/19
