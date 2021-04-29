@@ -37,5 +37,13 @@ Create portfolio in WordPress (https://kelseylcrump.com/)
     
     Played around with layout, navigation, etc - 4/27
       -figured out how to turn website into a single page site (HTML anchors)
+      -learned more about WordPress block editor boxes
+      -3 different layouts to choose from for Portfolio section (image/links, gallery, or slideshow)
+          -probably go with the image/links route
+      -Tweak footer information (added contact info area)
+      -Added a contact form after the portfolio section
+          -center?, adjust size of boxes? (@ 75% but maybe should make smaller),
+      -
     
     Made Portfolio checklist - 4/28
+    
