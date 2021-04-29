@@ -36,5 +36,6 @@ Create portfolio in WordPress (https://kelseylcrump.com/)
     Began working on portfolio (playing around, figuring out the cms) - 4/19
     
     Played around with layout, navigation, etc - 4/27
+      -figured out how to turn website into a single page site (HTML anchors)
     
     Made Portfolio checklist - 4/28
