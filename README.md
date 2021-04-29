@@ -34,3 +34,7 @@ Create portfolio in WordPress (https://kelseylcrump.com/)
       Twenty Twenty-One
       
     Began working on portfolio (playing around, figuring out the cms) - 4/19
+    
+    Played around with layout, navigation, etc - 4/27
+    
+    Made Portfolio checklist - 4/28
