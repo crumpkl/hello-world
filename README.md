@@ -43,7 +43,6 @@ Create portfolio in WordPress (https://kelseylcrump.com/)
       -Tweak footer information (added contact info area)
       -Added a contact form after the portfolio section
           -center?, adjust size of boxes? (@ 75% but maybe should make smaller),
-      -
-    
     Made Portfolio checklist - 4/28
-    
+    Finalized porfolio section layout (image blocks with links and covers) - 5/3
+      -worked on Codepen websites for porfolio 
