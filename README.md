@@ -15,7 +15,7 @@ Transfer JavaScript 30 projects to Codepen/Github for Portfolio
   
     Codepen
       
-      Drum Kit - ~~needs edits (fix JavaScript/change CSS)~~  https://codepen.io/crumpkl/pen/vYgjedg
+      Drum Kit - done!  https://codepen.io/crumpkl/pen/vYgjedg
       JS + CSS Clock - needs edits (fix JavaScript/change CSS) https://codepen.io/crumpkl/pen/WNRJdrw
       CSS Variables - needs edits (fix JavaScript/change CSS)  https://codepen.io/crumpkl/pen/OJWZzRP
       Flex Panel Gallery - needs edits (fix JavaScript/change CSS) https://codepen.io/crumpkl/pen/ExZLoZL
@@ -45,4 +45,4 @@ Create portfolio in WordPress (https://kelseylcrump.com/)
           -center?, adjust size of boxes? (@ 75% but maybe should make smaller),
     Made Portfolio checklist - 4/28
     Finalized porfolio section layout (image blocks with links and covers) - 5/3
-      -worked on Codepen websites for porfolio 
+      -worked on Codepen websites for porfolio (finished edits for Drum kit)
