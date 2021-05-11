@@ -7,11 +7,11 @@ Yay more practice for *fingers crossed* new job!
 Learned how to add html/css files
   -edit uploaded files
   
-Began JavaScript 30 on Feb 11 ~ add projects to CodePen and GitHub for Portfolio
+Began JavaScript 30 on Feb 11 ~ add projects to CodePen for Portfolio
      
      Completed 6/30
 
-Transfer JavaScript 30 projects to Codepen/Github for Portfolio
+Transfer JavaScript 30 projects to Codepen for Portfolio
   
     Codepen
       
