@@ -54,3 +54,4 @@ Create portfolio in WordPress (https://kelseylcrump.com/)
     Approval for CodePen sites (product landing, ajax type ahead, flex panel, js clock) - 5-25
     Work on final steps on Portfolio - 5/26
       -add screenshots to media
+        -cover blocks for portfolio images won't work...create cover-like images to use instead
