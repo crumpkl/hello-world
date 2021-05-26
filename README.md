@@ -50,3 +50,7 @@ Create portfolio in WordPress (https://kelseylcrump.com/)
     Fixed Ajax type ahead codepen - 5/11
     Fixed CSS variables codepen - 5/12
       -do more JS30 or ready for Portfolio?
+    Consulted Lauren about CodePen sites for Portfolio - 5/24
+    Approval for CodePen sites (product landing, ajax type ahead, flex panel, js clock) - 5-25
+    Work on final steps on Portfolio - 5/26
+      -add screenshots to media
