@@ -56,3 +56,6 @@ Create portfolio in WordPress (https://kelseylcrump.com/)
       -add screenshots to media
         -cover blocks for portfolio images won't work...create cover-like images to use instead
         -created and added cover images for portfolio section (all minus ggl done)
+    Continue finalizing portfolio - 5/27
+      -add ggl image to portfolio section
+      
