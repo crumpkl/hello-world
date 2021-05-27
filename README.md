@@ -58,4 +58,5 @@ Create portfolio in WordPress (https://kelseylcrump.com/)
         -created and added cover images for portfolio section (all minus ggl done)
     Continue finalizing portfolio - 5/27
       -add ggl image to portfolio section
+      -images reordered and linked to correct websites
       
