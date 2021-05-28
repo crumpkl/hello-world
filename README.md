@@ -62,5 +62,6 @@ Create portfolio in WordPress (https://kelseylcrump.com/)
     Cont finalizing portfolio website - 5/28
       -play with layout some more
       -fix contact section
+      -add header image/adjust color palette
       
       
