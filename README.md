@@ -63,5 +63,6 @@ Create portfolio in WordPress (https://kelseylcrump.com/)
       -play with layout some more
       -fix contact section
       -add header image/adjust color palette
-      
+      -add about picture (Linkdin pic, maybe resize and upload again?)
+      -change contact info on footer (need full address/phone?)
       
