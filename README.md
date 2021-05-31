@@ -71,6 +71,6 @@ Create portfolio in WordPress (https://kelseylcrump.com/)
       -add header image
       -css hide border header
       -add html anchor links to navigation (and they work!)
-      -
+      -edit about me section...continue then send final product to Lauren/Jayson to review
       
       
