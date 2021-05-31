@@ -70,5 +70,7 @@ Create portfolio in WordPress (https://kelseylcrump.com/)
       -adjust spacers between about, portfolio, and contact me section
       -add header image
       -css hide border header
+      -add html anchor links to navigation (and they work!)
+      -
       
       
