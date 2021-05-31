@@ -65,4 +65,8 @@ Create portfolio in WordPress (https://kelseylcrump.com/)
       -add header image/adjust color palette
       -add about picture (Linkdin pic, maybe resize and upload again?)
       -change contact info on footer (need full address/phone?)
+    Finish portfolio - 5/31
+      -add profile pic to about me section
+      -adjust spacers between about, portfolio, and contact me section
+      
       
