@@ -68,5 +68,7 @@ Create portfolio in WordPress (https://kelseylcrump.com/)
     Finish portfolio - 5/31
       -add profile pic to about me section
       -adjust spacers between about, portfolio, and contact me section
+      -add header image
+      -css hide border header
       
       
