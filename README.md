@@ -78,5 +78,6 @@ Create portfolio in WordPress (https://kelseylcrump.com/)
       -make website live and make changes
         -adjust line height in footer
         -fix padding around submit text
+        -try to fix page jumps placement
       
       
