@@ -80,5 +80,6 @@ Create portfolio in WordPress (https://kelseylcrump.com/)
         -fix padding around submit text
         -try to fix page jumps placement
       -verify site on Google 
+      -send link to Lauren/Jayson for review (fingers crossed)
       
       
