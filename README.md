@@ -84,7 +84,7 @@ Create portfolio in WordPress (https://kelseylcrump.com/)
     Make changes from Lauren/Jayon's review - 6/4
       -adjust height on header
       -take home link off nav
-      -remove link from name on header?
+      -remove link from name on header ~don't think I can change this
       -remove links from inside H2
       -use square version of picture
       -open all examples in new tabs
