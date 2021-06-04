@@ -81,5 +81,18 @@ Create portfolio in WordPress (https://kelseylcrump.com/)
         -try to fix page jumps placement
       -verify site on Google 
       -send link to Lauren/Jayson for review (fingers crossed)
+    Make changes from Lauren/Jayon's review - 6/4
+      -adjust height on header
+      -take home link off nav
+      -remove link from name on header?
+      -remove links from inside H2
+      -use square version of picture
+      -open all examples in new tabs
+      -tighten line height on names of examples
+      -reduce space under headings (footer)
+      -center nav and contact info to match social
+      -remove Aiken, SC under contact and lowercase email
+      -have social icons open in new tab
+      -resend to Lauren and Jayson when updates are done
       
       
