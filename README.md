@@ -94,5 +94,6 @@ Create portfolio in WordPress (https://kelseylcrump.com/)
       -remove Aiken, SC under contact and lowercase email
       -have social icons open in new tab
       -resend to Lauren and Jayson when updates are done
+        -Portfolio passed review! Ready for resume/job applications!
       
       
