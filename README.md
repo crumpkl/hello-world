@@ -21,6 +21,7 @@ Transfer JavaScript 30 projects to Codepen for Portfolio
       Flex Panel Gallery - done! https://codepen.io/crumpkl/pen/ExZLoZL
       Ajax Type Ahead - done!   https://codepen.io/crumpkl/pen/QWdraOd
       Fun with HTML canvas - done! https://codepen.io/crumpkl/pen/GRmRaYj
+      Hold shift and check multiple checkboxes - done! https://codepen.io/crumpkl/pen/abWbeQq
     
     Github
     
