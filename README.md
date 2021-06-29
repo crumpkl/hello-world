@@ -9,7 +9,7 @@ Learned how to add html/css files
   
 Began JavaScript 30 on Feb 11 ~ add projects to CodePen for Portfolio
      
-     Completed 9/30
+     Completed 10/30
 
 Transfer JavaScript 30 projects to Codepen for Portfolio
   
