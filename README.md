@@ -16,7 +16,7 @@ Transfer JavaScript 30 projects to Codepen for Portfolio
     Codepen
       
       Drum Kit - done!  https://codepen.io/crumpkl/pen/vYgjedg
-      JS + CSS Clock - done! (fix JavaScript/change CSS) https://codepen.io/crumpkl/pen/WNRJdrw
+      JS + CSS Clock - done!  https://codepen.io/crumpkl/pen/WNRJdrw
       CSS Variables - done!  https://codepen.io/crumpkl/pen/OJWZzRP
       Flex Panel Gallery - done! https://codepen.io/crumpkl/pen/ExZLoZL
       Ajax Type Ahead - done!   https://codepen.io/crumpkl/pen/QWdraOd
