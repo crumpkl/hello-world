@@ -15,14 +15,14 @@ Transfer JavaScript 30 projects to Codepen for Portfolio
   
     Codepen
       
-      Drum Kit - done!  https://codepen.io/crumpkl/pen/vYgjedg
-      JS + CSS Clock - done!  https://codepen.io/crumpkl/pen/WNRJdrw
-      CSS Variables - done!  https://codepen.io/crumpkl/pen/OJWZzRP
-      Flex Panel Gallery - done! https://codepen.io/crumpkl/pen/ExZLoZL
-      Ajax Type Ahead - done!   https://codepen.io/crumpkl/pen/QWdraOd
-      Fun with HTML canvas - done! https://codepen.io/crumpkl/pen/GRmRaYj
-      Hold shift and check multiple checkboxes - done! https://codepen.io/crumpkl/pen/abWbeQq
-      Custom HTML5 video player -
+      Drum Kit - https://codepen.io/crumpkl/pen/vYgjedg
+      JS + CSS Clock - https://codepen.io/crumpkl/pen/WNRJdrw
+      CSS Variables - https://codepen.io/crumpkl/pen/OJWZzRP
+      Flex Panel Gallery - https://codepen.io/crumpkl/pen/ExZLoZL
+      Ajax Type Ahead - https://codepen.io/crumpkl/pen/QWdraOd
+      Fun with HTML canvas - https://codepen.io/crumpkl/pen/GRmRaYj
+      Hold shift and check multiple checkboxes - https://codepen.io/crumpkl/pen/abWbeQq
+      Custom HTML5 video player - https://codepen.io/crumpkl/pen/ZEKLWOR
     
     Github
     
