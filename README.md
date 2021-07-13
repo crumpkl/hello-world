@@ -9,7 +9,7 @@ Learned how to add html/css files
   
 Began JavaScript 30 on Feb 11 ~ add projects to CodePen for Portfolio
      
-     Completed 10/30
+     Completed 11/30
 
 Transfer JavaScript 30 projects to Codepen for Portfolio
   
@@ -22,6 +22,7 @@ Transfer JavaScript 30 projects to Codepen for Portfolio
       Ajax Type Ahead - done!   https://codepen.io/crumpkl/pen/QWdraOd
       Fun with HTML canvas - done! https://codepen.io/crumpkl/pen/GRmRaYj
       Hold shift and check multiple checkboxes - done! https://codepen.io/crumpkl/pen/abWbeQq
+      Custom HTML5 video player -
     
     Github
     
