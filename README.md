@@ -9,7 +9,7 @@ Learned how to add html/css files
   
 Began JavaScript 30 on Feb 11 ~ add projects to CodePen for Portfolio
      
-     Completed 12/30
+     Completed 13/30
 
 Transfer JavaScript 30 projects to Codepen for Portfolio
   
@@ -98,5 +98,8 @@ Create portfolio in WordPress (https://kelseylcrump.com/)
       -have social icons open in new tab
       -resend to Lauren and Jayson when updates are done
         -Portfolio passed review! Ready for resume/job applications!
+        
+Spent summer 2020 - now applying to various jobs
+    -updating resumes/cover letters/LinkedIn etc.
       
       
