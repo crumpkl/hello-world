@@ -23,6 +23,7 @@ Transfer JavaScript 30 projects to Codepen for Portfolio
       Fun with HTML canvas - https://codepen.io/crumpkl/pen/GRmRaYj
       Hold shift and check multiple checkboxes - https://codepen.io/crumpkl/pen/abWbeQq
       Custom HTML5 video player - https://codepen.io/crumpkl/pen/ZEKLWOR
+      Slide In on Scroll (personalize CSS) - https://codepen.io/crumpkl/pen/JjMeozg
     
     Github
     
@@ -99,7 +100,8 @@ Create portfolio in WordPress (https://kelseylcrump.com/)
       -resend to Lauren and Jayson when updates are done
         -Portfolio passed review! Ready for resume/job applications!
         
-Spent summer 2020 - now applying to various jobs
-    -updating resumes/cover letters/LinkedIn etc.
+  Spent summer 2020 - now applying to various jobs
+         
+        -updating resumes/cover letters/LinkedIn etc.
       
       
