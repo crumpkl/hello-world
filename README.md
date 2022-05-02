@@ -101,7 +101,7 @@ Create portfolio in WordPress (https://kelseylcrump.com/)
       -resend to Lauren and Jayson when updates are done
         -Portfolio passed review! Ready for resume/job applications!
         
-  Spent summer 2020 - now applying to various jobs
+  Summer 2020 - now ~ applying to various jobs
          
         -updating resumes/cover letters/LinkedIn etc.
       
