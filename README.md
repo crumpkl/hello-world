@@ -100,9 +100,15 @@ Create portfolio in WordPress (https://kelseylcrump.com/)
       -have social icons open in new tab
       -resend to Lauren and Jayson when updates are done
         -Portfolio passed review! Ready for resume/job applications!
+    5/5/2022 - Make plan to update/add new content to portfolio
+      -Change/add new/more links to projects
+      -update portfolio images
+      -cartoonify/expand About me section
         
   Summer 2020 - now ~ applying to various jobs
          
         -updating resumes/cover letters/LinkedIn etc.
+          -As of May 2022, applied to 30+ jobs
+            -no interviews/offers yet ~time to update Portfolio/continue to apply
       
       
