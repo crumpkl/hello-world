@@ -105,7 +105,7 @@ Create portfolio in WordPress (https://kelseylcrump.com/)
       -update portfolio images
       -cartoonify/expand About me section
         
-  Summer 2020 - now ~ applying to various jobs
+  Summer 2020/2021 - now ~ applying to various jobs
          
         -updating resumes/cover letters/LinkedIn etc.
           -As of May 2022, applied to 30+ jobs
