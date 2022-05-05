@@ -23,7 +23,7 @@ Transfer JavaScript 30 projects to Codepen for Portfolio
       Fun with HTML canvas - https://codepen.io/crumpkl/pen/GRmRaYj
       Hold shift and check multiple checkboxes - https://codepen.io/crumpkl/pen/abWbeQq
       Custom HTML5 video player - https://codepen.io/crumpkl/pen/ZEKLWOR
-      Slide In on Scroll (add Kelsey CSS) - https://codepen.io/crumpkl/pen/JjMeozg
+      Slide In on Scroll - https://codepen.io/crumpkl/pen/JjMeozg
       Local Storage and Event Delegation (add Kelsey CSS)  - https://codepen.io/crumpkl/pen/YzYMxyx
     
     Github
