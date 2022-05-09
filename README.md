@@ -25,6 +25,7 @@ Transfer JavaScript 30 projects to Codepen for Portfolio
       Custom HTML5 video player - https://codepen.io/crumpkl/pen/ZEKLWOR
       Slide In on Scroll - https://codepen.io/crumpkl/pen/JjMeozg
       Local Storage and Event Delegation (add Kelsey CSS)  - https://codepen.io/crumpkl/pen/YzYMxyx
+      Mouse Move Shadow (fix JS code, add Kelsey CSS) - https://codepen.io/crumpkl/pen/xxYVEMd
     
     Github
     
