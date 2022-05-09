@@ -9,7 +9,7 @@ Learned how to add html/css files
   
 Began JavaScript 30 on Feb 11 ~ add projects to CodePen for Portfolio
      
-     Completed 15/30
+     Completed 18/30
 
 Transfer JavaScript 30 projects to Codepen for Portfolio
   
@@ -27,6 +27,7 @@ Transfer JavaScript 30 projects to Codepen for Portfolio
       Local Storage and Event Delegation (add Kelsey CSS)  - https://codepen.io/crumpkl/pen/YzYMxyx
       Mouse Move Shadow (fix JS code, add Kelsey CSS) - https://codepen.io/crumpkl/pen/xxYVEMd
       Sort without articles (add Kelsey CSS) - https://codepen.io/crumpkl/pen/abqNBEq
+      Add tally string times?
     
     Github
     
