@@ -30,6 +30,10 @@ Transfer JavaScript 30 projects to Codepen for Portfolio
       Add tally string times?
     
     Github
+
+Other JS projects
+       
+    Infinite Color Flipper - https://codepen.io/crumpkl/pen/wvyWvxd 
     
 Create portfolio in WordPress (https://kelseylcrump.com/)
 
