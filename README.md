@@ -34,6 +34,7 @@ Transfer JavaScript 30 projects to Codepen for Portfolio
 Other JS projects
        
     Infinite Color Flipper - https://codepen.io/crumpkl/pen/wvyWvxd 
+    Counter - https://codepen.io/crumpkl/pen/jOZrEoj
     
 Create portfolio in WordPress (https://kelseylcrump.com/)
 
