@@ -35,6 +35,7 @@ Other JS projects
        
     Infinite Color Flipper - https://codepen.io/crumpkl/pen/wvyWvxd 
     Counter - https://codepen.io/crumpkl/pen/jOZrEoj
+    Review Carousel - https://codepen.io/crumpkl/pen/MWQpmjq
     
 Create portfolio in WordPress (https://kelseylcrump.com/)
 
